@@ -1,5 +1,6 @@
-
+<div style="text-align: center;">
 <img src = "images.jpg"> 
+</div>
 
 ```text
 ██╗  ██╗ █████╗  ██████╗██╗  ██╗
