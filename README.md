@@ -1,5 +1,5 @@
-<center
-<img src = "images.jpg"> </center>
+
+<img src = "images.jpg"> 
 
 ```text
 ██╗  ██╗ █████╗  ██████╗██╗  ██╗
