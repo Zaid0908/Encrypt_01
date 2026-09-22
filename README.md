@@ -1,4 +1,4 @@
-# `// HACKER TERMINAL`
+<img src = "images.jpg">
 
 ```text
 ██╗  ██╗ █████╗  ██████╗██╗  ██╗
@@ -8,7 +8,7 @@
 ██║  ██║██║  ██║╚██████╗██║  ██╗
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
 ```
-<img src = "images.jpg">
+
 
 ### `> SYSTEM STATUS: ONLINE_`
 
