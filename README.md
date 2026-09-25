@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-<img src = "image.png"> 
+<img src = "A.webp"> 
 </div>
 
 ```text
